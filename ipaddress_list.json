@@ -1,0 +1,33 @@
+{"hosts": [
+    {
+    "hostname": "gateway.rainsbrook.co.uk",
+    "ipaddress": "81.187.218.249",
+    "open_ports": []
+    },
+    {
+    "hostname": "helium.rainsbrook.co.uk",
+    "ipaddress": "81.187.218.250",
+    "open_ports": [80,53,443]
+    },
+    {
+    "hostname": "quince.rainsbrook.co.uk",
+    "ipaddress": "81.187.218.251",
+    "open_ports": [25,80]
+    },
+    {
+    "hostname": "server1.rainsbrook.co.uk",
+    "ipaddress": "81.187.218.252",
+    "open_ports": []
+    },
+    {
+    "hostname": "hydrogen.rainsbrook.co.uk",
+    "ipaddress": "81.187.218.253",
+    "open_ports": [80,443]
+    },
+    {
+    "hostname": "server2.rainsbrook.co.uk",
+    "ipaddress": "81.187.218.254",
+    "open_ports": []
+    }
+]
+}
